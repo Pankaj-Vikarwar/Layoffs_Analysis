@@ -1,3 +1,3 @@
 # Layoffs_Analysis
 <br>
-Preprocessed and ETL the raw layoff data then Analysed it on various levels which provides some productive insights on data.
+Preprocessed and transformed raw layoff data using ETL, uncovering actionable insights through in-depth multi-level analysis for impactful results.
